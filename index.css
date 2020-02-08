@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Microsoft JhengHei;
+    box-sizing: border-box;
+}
+body{
+    width: 300px;
+}
+#wrapper{
+    padding: 5px 10px;
+    width: 300px;
+    background-color: #fcfaf2;
+    border-radius: 10px;
+}
+input{
+    background-color: #f2e8df;
+    padding: 6px;
+    border-radius: 5px;
+    border:none;
+}
+#file{
+    width: 180px;
+    border: none;
+    background-color: #fcfaf2;
+}
+#form-group{
+    margin: 15px 10px;
+}
+input[type="checkbox"]{
+     margin: 8px 5px;
+}
+input[type="checkbox"]:checked + label {
+    color: #c87;
+  }
+p{
+    margin: 5px 0px;
+}
+textarea{
+    background-color: #f2e8df;
+    padding: 5px;
+    border-radius: 5px;
+    border:none;
+}
+#suggest{
+    width: 250px;
+    height: 50px;
+    margin: 10px 0;
+}
+#btn{
+    width: 50px;
+}
+#img{
+    background-color:#fcfaf2 ;
+}

@@ -1,0 +1,91 @@
+*{
+    font-family: Microsoft JhenHei;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: #3b5998;
+}
+#wrapper{
+    width: 400px;
+    height: 550px;
+    background: linear-gradient(to bottom, white, #dfe3ee);
+    padding: 20px ;
+    position: absolute;
+    top: 300px;   
+    left: 700px;
+    margin-top: -280px;
+    margin-left: -250px;
+}
+h1,h3{
+    margin: 8px 0;
+}
+#textbox{
+    margin: 10px 0;
+}
+#birth input{
+    width: 50%;
+}
+#control {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 18px;
+    width: 99%;
+}
+#first{
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 18px;
+    width: 50%;
+}
+#second{
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 18px;
+    width: 48%;
+}
+input{
+    border-radius: 3px;
+    border: 1px solid #888;
+}
+#birthday{
+    margin: 10px 0;
+    font-size: 20px;
+}
+#birth a{
+    font-size: 12px;
+    width: 45%;
+    float: right;
+    text-decoration: none;
+}
+select{
+    padding: 5px;
+}
+#bihth input{
+    width: 60%;
+}
+#birth{
+    width: 90%;
+}
+#sex{
+    margin: 20px 5px;
+    font-size: 18px;
+}
+#detail{
+    width: 80%;
+    font-size: 12px;
+    margin: 10px 0;
+    line-height: 1.5;
+}
+#detail a{
+    text-decoration: none;
+}
+button {
+    width: 50%;
+    height: 50px;
+    background-color: green;
+    font-size: 24px;
+    color: white;
+    border-radius: 10px;
+  }
